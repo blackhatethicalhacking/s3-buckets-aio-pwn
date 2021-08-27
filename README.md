@@ -29,6 +29,11 @@ chmod +x s3-buckets-aio-pwn.sh
 You must provide the buckets in a text file, without any http:// or https:// - Only the Bucket address in this format: bucket.name
 One bucket per line.
 
+**For this tool to work, you must first configure your aws-cli by adding an API Key!**
+
+More info here:
+https://docs.aws.amazon.com/rekognition/latest/dg/setup-awscli-sdk.html
+
 # DEMO
 
 [![asciicast](https://asciinema.org/a/Q1Yrb8np80JAzJsWQHN1d8FyO.svg)](https://asciinema.org/a/Q1Yrb8np80JAzJsWQHN1d8FyO)
