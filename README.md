@@ -20,6 +20,8 @@ pip install lolcat
 
 apt-get install toilet
 
+Configure AWS-CLI first with your own API Key for this to work!
+
 Tested on Kali Linux 2021 - Can be used on various Linux Distros 
 
 # Usage
