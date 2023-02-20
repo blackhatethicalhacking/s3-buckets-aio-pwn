@@ -37,7 +37,7 @@ xcowsay blackhatethicalhacking.com
 #Make sure to add the bucket names without any http/https
 #You need to configure first your AWS API Key for this to work
 # Matrix effect
-echo "Exiting the Matrix for 5 seconds:" | toilet --metal -f term -F border
+echo "Entering the Matrix for 5 seconds:" | toilet --metal -f term -F border
 
 
 R='\033[0;31m'
